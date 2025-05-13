@@ -16,7 +16,7 @@
   <br/>
 
   ## 🌟 Tech Stack
-  <p style="font-size: 16px; font-weight: normal;">What I can do</p>
+  <p style="font-size: 16px; font-weight: normal;">what I can do</p>
   <!--C-->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
   <!--C++-->
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <br/>
   
-  <p style="font-size: 16px; font-weight: normal;">ETC</p>
+  <p style="font-size: 16px; font-weight: normal;">etc</p>
   <!--Photoshop-->
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
   <!--Illustrator-->
