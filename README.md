@@ -9,9 +9,9 @@
   <!--Body-->
   
   ## ⭐️ About Me
-  ### &#128218; I'm studying Art&Technology and Computer Science Engineering in Sogang Univ.<br/>
-  ### &#128187; I mainly enjoy making web, application, and game.<br/>
-  ### &#128295; I have a slight interest in computer systems and embedded systems.
+  <p style="font-size: 16px; font-weight: normal;">📚 I'm studying Art&Technology and Computer Science Engineering in Sogang Univ.</p>
+  <p style="font-size: 16px; font-weight: normal;">💻 I mainly enjoy making web, application, and game.</p>
+  <p style="font-size: 16px; font-weight: normal;">🔧 I have a slight interest in computer systems and embedded systems.</p>
   <br/>
   <br/>
 
