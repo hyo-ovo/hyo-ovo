@@ -6,13 +6,13 @@
 </div>
 
 <div>
-  <!--Body-->
-  ## ⭐️ About Me
-  #### &#128218; I'm studying Art&Technology and Computer Science Engineering in Sogang Univ.<br/>
-  #### &#128187; I mainly enjoy making web, application, and game.<br/>
-  #### &#128295; I have a slight interest in computer systems and embedded systems.
-  <br/>
-  <br/>
+<!--Body-->
+## ⭐️ About Me
+### &#128218; I'm studying Art&Technology and Computer Science Engineering in Sogang Univ.<br/>
+### &#128187; I mainly enjoy making web, application, and game.<br/>
+### &#128295; I have a slight interest in computer systems and embedded systems.
+<br/>
+<br/>
 
 ## 🌟 Tech Stack
 ### What I can do  
@@ -54,9 +54,5 @@
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>
 <br/><br/>
 
-## 💫 Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
