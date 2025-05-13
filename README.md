@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=E4E4C5&height=300&section=header&text=Hello%20ovo-nl-im%20hyo&fontSize=40&fontColor=333333)
+![header](https://capsule-render.vercel.app/api?type=venom&color=F5F5DC&height=300&section=header&text=Hi%2C%20I'm%20hyo.&fontSize=45&fontColor=3A3A3A&fontAlignY=40)
