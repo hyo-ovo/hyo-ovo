@@ -16,7 +16,7 @@
   <br/>
 
   ## 🌟 Tech Stack
-  ### What I can do  
+  <p style="font-size: 16px; font-weight: normal;">What I can do</p>
   <!--C-->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
   <!--C++-->
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=Oculus&logoColor=white"/>
   <br/>
   
-  ### studying...
+  <p style="font-size: 16px; font-weight: normal;">studying...</p>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <!--HTML5-->
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <br/>
   
-  ### ETC
+  <p style="font-size: 16px; font-weight: normal;">ETC</p>
   <!--Photoshop-->
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
   <!--Illustrator-->
