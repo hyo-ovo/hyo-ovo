@@ -11,7 +11,7 @@
   ## ⭐️ About Me
   <p style="font-size: 16px; font-weight: normal;">📚 I'm studying Art&Technology and Computer Science Engineering in Sogang Univ.</p>
   <p style="font-size: 16px; font-weight: normal;">💻 I mainly enjoy making web, application, and game.</p>
-  <p style="font-size: 16px; font-weight: normal;">🔧 I have a slight interest in computer systems and embedded systems.</p>
+  <p style="font-size: 16px; font-weight: normal;">🔧 I have a slight interest in computer systems and embedded systems. and some robots.</p>
   <br/>
   <br/>
 
