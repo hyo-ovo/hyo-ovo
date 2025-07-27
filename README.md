@@ -32,6 +32,8 @@
   <!--Oculus-->
   <img src="https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=Oculus&logoColor=white"/>
   <br/>
+  <!--Android Studio-->
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
   
   <p style="font-size: 16px; font-weight: normal;">Studying...</p>
   <!--JavaScript-->
