@@ -37,8 +37,7 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
   
   <!-- 줄 바꿈을 위한 마진 -->
-  <p style="font-size: 16px; font-weight: normal; margin-top: 16px;">Studying...</p>
-  <p style="font-size: 16px; font-weight: normal; margin-top: 16px;">Studying...</p>
+  <p style="font-size: 16px; font-weight: normal; margin-top: 32px;">Studying...</p>
   
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -54,8 +53,7 @@
   <img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=XML&logoColor=white"/>
   
   <!-- 줄 바꿈을 위한 마진 -->
-  <p style="font-size: 16px; font-weight: normal; margin-top: 16px;">ETC</p>
-  <p style="font-size: 16px; font-weight: normal; margin-top: 16px;">Studying...</p>
+  <p style="font-size: 16px; font-weight: normal; margin-top: 32px;">ETC</p>
   
   <!--Photoshop-->
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
