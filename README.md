@@ -17,7 +17,7 @@
 
   ## 🌟 Tech Stack
   <!-- What I can do -->
-  <p style="font-size: 16px; font-weight: normal; margin-top: 32px; margin-bottom: 8px;">What I can do</p>
+  <p style="font-size: 16px; font-weight: normal; margin-top: 32px; margin-bottom: 0px;">What I can do</p>
   
   <!-- 배지들 -->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
@@ -33,7 +33,7 @@
   <div style="height: 32px;"></div>
   
   <!-- Studying -->
-  <p style="font-size: 16px; font-weight: normal; margin-top: 32px; margin-bottom: 8px;">Studying...</p>
+  <p style="font-size: 16px; font-weight: normal; margin-top: 32px; margin-bottom: 0px;">Studying...</p>
   
   <!-- 배지들 -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -47,7 +47,7 @@
   <div style="height: 32px;"></div>
   
   <!-- ETC -->
-  <p style="font-size: 16px; font-weight: normal; margin-top: 32px; margin-bottom: 8px;">ETC</p>
+  <p style="font-size: 16px; font-weight: normal; margin-top: 32px; margin-bottom: 0px;">ETC</p>
   
   <!-- 배지들 -->
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
