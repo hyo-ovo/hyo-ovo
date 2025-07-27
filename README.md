@@ -45,7 +45,11 @@
   <!--Spring-->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <br/>
-  
+  <!--Kotlin-->
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+  <!--XML-->
+  <img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=XML&logoColor=white"/>
+
   <p style="font-size: 16px; font-weight: normal;">ETC</p>
   <!--Photoshop-->
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
