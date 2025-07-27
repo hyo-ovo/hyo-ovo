@@ -32,7 +32,8 @@
   <!--Oculus-->
   <img src="https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=Oculus&logoColor=white"/>
   <br/>
-  
+
+  <p style="font-size: 16px; font-weight: normal;"> </p>
   <p style="font-size: 16px; font-weight: normal;">Studying...</p>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -49,7 +50,8 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   <!--XML-->
   <img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=XML&logoColor=white"/>
-  
+
+  <p style="font-size: 16px; font-weight: normal;"> </p>
   <p style="font-size: 16px; font-weight: normal;">ETC</p>
   <!--Photoshop-->
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
@@ -63,5 +65,3 @@
   
     
   </div>
-
-여기에 Android Studio 넣고 싶은데 어따 넣으면 좋을까 니가 정해서 넣어줘
