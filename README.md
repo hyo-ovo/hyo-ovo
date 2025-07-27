@@ -31,11 +31,10 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
   <!--Oculus-->
   <img src="https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=Oculus&logoColor=white"/>
-  <br/>
   <!--Android Studio-->
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
   
-  <p style="font-size: 16px; font-weight: normal;">Studying...</p>
+  <p style="font-size: 16px; font-weight: normal; margin-top: 8px;">Studying...</p>
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <!--HTML5-->
@@ -44,13 +43,12 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <!--Spring-->
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-  <br/>
   <!--Kotlin-->
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
   <!--XML-->
   <img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=XML&logoColor=white"/>
-
-  <p style="font-size: 16px; font-weight: normal;">ETC</p>
+  
+  <p style="font-size: 16px; font-weight: normal; margin-top: 8px;">ETC</p>
   <!--Photoshop-->
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
   <!--Illustrator-->
@@ -59,7 +57,4 @@
   <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
   <!--Blender-->
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>
-  <br/><br/>
-  
-    
-  </div>
+
