@@ -17,7 +17,7 @@
 
   ## 🌟 Tech Stack
   <!-- What I can do -->
-  <p style="font-size: 16px; font-weight: normal;">What I can do</p>
+  <p style="font-size: 16px; font-weight: normal; margin-bottom: 0;">What I can do</p>
   
   <!--C-->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
