@@ -16,7 +16,9 @@
   <br/>
 
   ## 🌟 Tech Stack
+  <!-- What I can do -->
   <p style="font-size: 16px; font-weight: normal;">What I can do</p>
+  
   <!--C-->
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
   <!--C++-->
@@ -34,7 +36,9 @@
   <!--Android Studio-->
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
   
-  <p style="font-size: 16px; font-weight: normal; margin-top: 8px;">Studying...</p>
+  <!-- 줄 바꿈을 위한 마진 -->
+  <p style="font-size: 16px; font-weight: normal; margin-top: 16px;">Studying...</p>
+  
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <!--HTML5-->
@@ -48,7 +52,9 @@
   <!--XML-->
   <img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=XML&logoColor=white"/>
   
-  <p style="font-size: 16px; font-weight: normal; margin-top: 8px;">ETC</p>
+  <!-- 줄 바꿈을 위한 마진 -->
+  <p style="font-size: 16px; font-weight: normal; margin-top: 16px;">ETC</p>
+  
   <!--Photoshop-->
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/>
   <!--Illustrator-->
@@ -57,4 +63,3 @@
   <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
   <!--Blender-->
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white"/>
-
