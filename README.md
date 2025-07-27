@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/>
   
   <!-- 다음 제목 전 여백 -->
-  <div style="height: 64px;"></div>
+  <div style="height: 4px;"></div>
   
   <!-- Studying -->
   <p style="font-size: 16px; font-weight: normal; margin-top: 32px; margin-bottom: 0px;">Studying...</p>
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/XML-FF6600?style=flat-square&logo=XML&logoColor=white"/>
   
   <!-- 다음 제목 전 여백 -->
-  <div style="height: 64px;"></div>
+  <div style="height: 4px;"></div>
   
   <!-- ETC -->
   <p style="font-size: 16px; font-weight: normal; margin-top: 32px; margin-bottom: 0px;">ETC</p>
